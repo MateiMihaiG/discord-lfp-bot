@@ -152,6 +152,8 @@ If application emojis are used in posts, the bot requires the **Use External Emo
 
 ![Setup Output Example](screenshots/setup_out.png)
 
+It shows that it used ranks because I already have them created. Yours will be created without any problem.
+
 ---
 
 # Notes
