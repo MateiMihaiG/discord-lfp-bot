@@ -156,6 +156,12 @@ It shows that it used ranks because I already have them created. Yours will be c
 
 ---
 
+## TO DO:
+
+Creating a dashboard that syncs with the Discord bot. When a message is posted in a Discord server, an LFP post will also be created on the website. Players will be able to see who created it, what ranks are required, etc., and have a "Join Discord" button to join the server directly where the LFP was posted. No ETA for this yet.
+
+---
+
 # Notes
 
 This repository is intended as a **portfolio showcase**.
